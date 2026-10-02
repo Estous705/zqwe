@@ -1,0 +1,10 @@
+{
+  "item.dotaitems.blink_dagger": "Blink Dagger",
+  "item.dotaitems.blink_dagger.tooltip1": "ПКМ: блинк до 120 блоков",
+  "item.dotaitems.blink_dagger.tooltip2": "Перезарядка 15 с. Урон от врага отключает его на 3 с.",
+  "item.dotaitems.phantom_assassin_dagger": "Кинжал Phantom Assassin",
+  "item.dotaitems.phantom_assassin_dagger.tooltip1": "Coup de Grace: 27% шанс нанести 450% урона",
+  "item.dotaitems.phantom_assassin_dagger.tooltip2": "Бей, чтобы поразить",
+  "message.dotaitems.blink_blocked": "Там нет места для блинка!",
+  "message.dotaitems.crit": "КРИТИЧЕСКИЙ УДАР! %s"
+}

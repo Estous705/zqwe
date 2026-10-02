@@ -1,0 +1,10 @@
+{
+  "item.dotaitems.blink_dagger": "Blink Dagger",
+  "item.dotaitems.blink_dagger.tooltip1": "Right-click: blink up to 120 blocks",
+  "item.dotaitems.blink_dagger.tooltip2": "Cooldown 15s. Taking damage from an enemy disables it for 3s.",
+  "item.dotaitems.phantom_assassin_dagger": "Phantom Assassin's Dagger",
+  "item.dotaitems.phantom_assassin_dagger.tooltip1": "Coup de Grace: 27% chance to deal 450% damage",
+  "item.dotaitems.phantom_assassin_dagger.tooltip2": "Attack to strike",
+  "message.dotaitems.blink_blocked": "No room to blink there!",
+  "message.dotaitems.crit": "CRITICAL STRIKE! %s"
+}

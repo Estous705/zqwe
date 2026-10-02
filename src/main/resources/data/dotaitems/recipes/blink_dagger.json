@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [" E ", "EDE", " S "],
+  "key": {
+    "E": { "item": "minecraft:ender_pearl" },
+    "D": { "item": "minecraft:diamond" },
+    "S": { "item": "minecraft:stick" }
+  },
+  "result": { "item": "dotaitems:blink_dagger", "count": 1 }
+}

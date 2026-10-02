@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [" D ", "RNR", " S "],
+  "key": {
+    "D": { "item": "minecraft:diamond" },
+    "R": { "item": "minecraft:redstone" },
+    "N": { "item": "minecraft:netherite_ingot" },
+    "S": { "item": "minecraft:stick" }
+  },
+  "result": { "item": "dotaitems:phantom_assassin_dagger", "count": 1 }
+}
